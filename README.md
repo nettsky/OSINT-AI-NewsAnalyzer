@@ -12,8 +12,9 @@ OSINT-AI-NewsAnalyzer is a Python-based tool that scrapes news headlines from on
 ✅ **Lightweight & easy to use**  
 ✅ **Expandable for other news sources**  
 
-## 🚀 Installation  
+## 🚀 Installation & 🛠 Usage
 ```bash
 git clone https://github.com/your-username/OSINT-AI-NewsAnalyzer.git
 cd OSINT-AI-NewsAnalyzer
 pip install -r requirements.txt
+python news_scraper.py
